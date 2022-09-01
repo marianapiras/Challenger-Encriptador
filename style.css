@@ -1,0 +1,66 @@
+header{
+    padding: 20px 0;
+}
+body{
+    background:linear-gradient(#E5E5E5,#0aaaaa ) #E5E5E5;
+}
+
+main{
+    display: flex;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+footer{
+    background: #0aaaaa;
+}
+.input-texto{
+     width: 400px;
+     height: 400px;
+     top: 168px;
+     left: 240px;
+     font-family: Inter;
+     border-color: transparent;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    background: transparent;
+    display: inline-block;
+
+}
+.advetencia{
+    display: block;
+    padding: 20px;
+}
+.Encriptar{
+    background: #0A3871;
+}
+.Encriptar,.Desencriptar,.copiar{
+    border-radius: 10px;
+    border: 2px solid #0A3871;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    font-style: inherit;
+    font-weight: 600;
+   
+}
+.botones{
+    text-align: center;
+    
+}
+.mensaje{
+    background-image:url("imagenes/Muñeco.png"),url("imagenes/Frame\ 5.png");
+    background-color: transparent;
+    width: 343px;
+    height: 292px;
+    left: 240px;
+    top: 168px;
+    border-radius: 10px;
+    border-color: black;
+    
+   
+}
+
+
